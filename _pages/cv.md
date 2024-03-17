@@ -2,9 +2,9 @@
 layout: archive
 title: "CV"
 permalink: /files/CV_tingyu.pdf
-author_profile: true
-redirect_from:
-  - /cv
+# author_profile: true
+# redirect_from:
+#   - /cv
 ---
 
 {% include base_path %}

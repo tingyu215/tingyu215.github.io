@@ -19,19 +19,27 @@ Selected Publications
 
 
 **Introducing Routing Functions to Vision-Language Parameter-Efficient Fine-Tuning with Low-Rank Bottlenecks**
+
 Tingyu Qu, Tinne Tuytelaars, Marie-Francine Moens
+
 Preprint. [[Paper](https://arxiv.org/pdf/2403.09377.pdf)] 
 
 **Alleviating Exposure Bias in Diffusion Models through Sampling with Shifted Time Steps**
+
 Mingxiao Li*, Tingyu Qu*, Ruicong yao, Wei Sun, Marie-Francine Moens
+
 ICLR 2024. [[Paper](https://arxiv.org/pdf/2305.15583.pdf)] [[Code (DDPM ver.)](https://github.com/Mingxiao-Li/TS-DPM?tab=readme-ov-file)] [[Code {ADM ver.}](https://github.com/tingyu215/TS-DPM-ADM)]
 
 **Visually-Aware Context Modeling for News Image Captioning**
+
 Tingyu Qu, Tinne Tuytelaars, Marie-Francine Moens
+
 NAACL 2024. [[Paper](https://arxiv.org/pdf/2308.08325.pdf)] [[Code](https://github.com/tingyu215/VACNIC)]
 
 **Weakly Supervised Face Naming With Symmetry-Enhanced Contrastive Loss**
+
 Tingyu Qu, Tinne Tuytelaars, Marie-Francine Moens
+
 WACV 2023 [[Paper](https://arxiv.org/pdf/2210.08957.pdf)] [[Code](https://github.com/tingyu215/SECLA)]
 
 Note: * indicates equal contribution
