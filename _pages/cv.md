@@ -1,15 +1,13 @@
 ---
-# layout: archive
-nav: true
+layout: archive
 title: "CV"
-permalink: /files/CV_tingyu.pdf
-newtab: true
-# author_profile: true
-# redirect_from:
-#   - /cv
+permalink: ../files/cv_tingyu.pdf
+author_profile: true
+redirect_from:
+  - /cv/
 ---
 
-<!-- {% include base_path %} -->
+{% include base_path %}
 <!-- 
 Education
 ======
