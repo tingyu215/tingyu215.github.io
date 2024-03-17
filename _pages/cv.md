@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /files/CV_tingyu.pdf
+permalink: ../files/CV_tingyu.pdf
 # author_profile: true
 # redirect_from:
 #   - /cv
