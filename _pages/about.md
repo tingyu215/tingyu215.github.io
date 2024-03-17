@@ -1,12 +1,46 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
+excerpt: "Tingyu Qu's Homepage"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+Hi there! I'm a PhD student at KU Leuven, advised by [Prof.Marie-Francine Moens](https://people.cs.kuleuven.be/~sien.moens/) and [Prof.Tinne Tuytelaars](https://www.esat.kuleuven.be/psi/TT/). My current research interests lie in Vision and Language, Generative Models and Parameter-Efficient Fine-Tuning Methods. Feel free to contact me for questions and collaborations.
+
+Before my PhD, I obtained my MSc. in Artificial Intelligence (2020) and Statistics (2019) from KU Leuven, and my BSc. in Applied Mathematics (2017) from Hebei University.
+
+Selected Publications
+======
+
+<!-- Visit my [Google Scholar Page](https://scholar.google.com/citations?user=d18-zLYAAAAJ&hl=en) for an up-to-date list of my publications. -->
+
+
+**Introducing Routing Functions to Vision-Language Parameter-Efficient Fine-Tuning with Low-Rank Bottlenecks**
+Tingyu Qu, Tinne Tuytelaars, Marie-Francine Moens
+Preprint. [[Paper](https://arxiv.org/pdf/2403.09377.pdf)] 
+
+**Alleviating Exposure Bias in Diffusion Models through Sampling with Shifted Time Steps**
+Mingxiao Li*, Tingyu Qu*, Ruicong yao, Wei Sun, Marie-Francine Moens
+ICLR 2024. [[Paper](https://arxiv.org/pdf/2305.15583.pdf)] [[Code (DDPM ver.)](https://github.com/Mingxiao-Li/TS-DPM?tab=readme-ov-file)] [[Code {ADM ver.}](https://github.com/tingyu215/TS-DPM-ADM)]
+
+**Visually-Aware Context Modeling for News Image Captioning**
+Tingyu Qu, Tinne Tuytelaars, Marie-Francine Moens
+NAACL 2024. [[Paper](https://arxiv.org/pdf/2308.08325.pdf)] [[Code](https://github.com/tingyu215/VACNIC)]
+
+**Weakly Supervised Face Naming With Symmetry-Enhanced Contrastive Loss**
+Tingyu Qu, Tinne Tuytelaars, Marie-Francine Moens
+WACV 2023 [[Paper](https://arxiv.org/pdf/2210.08957.pdf)] [[Code](https://github.com/tingyu215/SECLA)]
+
+Note: * indicates equal contribution
+
+Service
+======
+Reviewer: CVPR, ACL, TPAMI
+
+<!-- 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
@@ -46,4 +80,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
