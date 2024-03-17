@@ -1,10 +1,9 @@
 ---
-layout: archive
-title: "CV"
+title: curriculum vitae
+nav: true
+# nav_order: 6
 permalink: /files/cv_tingyu.pdf
-author_profile: true
-redirect_from:
-  - /cv/
+newtab: true
 ---
 
 {% include base_path %}
