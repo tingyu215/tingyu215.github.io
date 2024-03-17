@@ -2,7 +2,7 @@
 layout: archive
 nav: true
 title: "CV"
-permalink: ./files/CV_tingyu.pdf
+permalink: /files/CV_tingyu.pdf
 newtab: true
 # author_profile: true
 # redirect_from:
