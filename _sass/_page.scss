@@ -7,7 +7,7 @@
   @include clearfix;
   margin-top: 2em;
   padding-left: 1em;
-  padding-right: 0.2em;
+  padding-right: 1em;
   animation: intro 0.3s both;
   animation-delay: 0.35s;
 
@@ -257,13 +257,13 @@
   }
 
   strong {
-    margin-right: 10px;
+    margin-right: 5px;
   }
 }
 
 .page__taxonomy-item {
   display: inline-block;
-  margin-right: 5px;
+  margin-right: 2px;
   margin-bottom: 8px;
   padding: 5px 10px;
   text-decoration: none;
