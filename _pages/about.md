@@ -20,7 +20,8 @@ Selected Publications
 
 **Introducing Routing Functions to Vision-Language Parameter-Efficient Fine-Tuning with Low-Rank Bottlenecks**  
 Tingyu Qu, Tinne Tuytelaars, Marie-Francine Moens   
-*Preprint.* [[Paper](https://arxiv.org/pdf/2403.09377.pdf)] 
+*Preprint.*  
+[[Paper](https://arxiv.org/pdf/2403.09377.pdf)] 
 
 
 **Alleviating Exposure Bias in Diffusion Models through Sampling with Shifted Time Steps**  
