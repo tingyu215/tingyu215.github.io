@@ -24,8 +24,8 @@ author:
   avatar           : "tingyuqu.jpeg"
   name             : "Tingyu Qu"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student"
-  location         : "KU Leuven, Belgium"
+  bio              : "PhD student at KU Leuven"
+  location         : 
   # employer         : "Red Brick University"
   employer         : 
   uri              : # URL
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "tingyu-qu-a15770161" # Username
+  linkedin         : # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
