@@ -20,13 +20,13 @@ Selected Publications
 
 **Introducing Routing Functions to Vision-Language Parameter-Efficient Fine-Tuning with Low-Rank Bottlenecks**  
 **Tingyu Qu**, Tinne Tuytelaars, Marie-Francine Moens   
-*The 18th European Conference on Computer Vision (**ECCV 2024**)*  
+*European Conference on Computer Vision (**ECCV 2024**)*  
 [[Paper](https://arxiv.org/pdf/2403.09377.pdf)] 
 
 
 **Alleviating Exposure Bias in Diffusion Models through Sampling with Shifted Time Steps**  
 Mingxiao Li\*, **Tingyu Qu**\*, Ruicong yao, Wei Sun, Marie-Francine Moens  
-*The International Conference on Learning Representations (**ICLR 2024**)*  
+*International Conference on Learning Representations (**ICLR 2024**)*  
 [[Paper](https://arxiv.org/pdf/2305.15583.pdf)] [[Code (DDPM ver.)](https://github.com/Mingxiao-Li/TS-DPM?tab=readme-ov-file)] [[Code (ADM ver.)](https://github.com/tingyu215/TS-DPM-ADM)]
 
 
