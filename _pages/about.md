@@ -21,7 +21,7 @@ Selected Publications
 **Introducing Routing Functions to Vision-Language Parameter-Efficient Fine-Tuning with Low-Rank Bottlenecks**  
 **Tingyu Qu**, Tinne Tuytelaars, Marie-Francine Moens   
 *European Conference on Computer Vision (**ECCV 2024**)*  
-[[Paper](https://arxiv.org/pdf/2403.09377.pdf)] 
+[[Paper](https://arxiv.org/pdf/2403.09377.pdf)] [[Code](https://github.com/tingyu215/Routing_VLPEFT)]
 
 
 **Alleviating Exposure Bias in Diffusion Models through Sampling with Shifted Time Steps**  
