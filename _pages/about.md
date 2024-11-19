@@ -18,6 +18,12 @@ Selected Publications
 <!-- Visit my [Google Scholar Page](https://scholar.google.com/citations?user=d18-zLYAAAAJ&hl=en) for an up-to-date list of my publications. -->
 
 
+**TS-LLaVA: Constructing Visual Tokens through Thumbnail-and-Sampling or Training-Free Video Large Language Models**
+**Tingyu Qu**, Mingxiao Li, Tinne Tuytelaars, Marie-Francine Mones
+**Preprint, Under Review**
+[[Paper](https://arxiv.org/pdf/2411.11066)] [[Code](https://github.com/tingyu215/TS-LLaVA)]
+
+
 **Introducing Routing Functions to Vision-Language Parameter-Efficient Fine-Tuning with Low-Rank Bottlenecks**  
 **Tingyu Qu**, Tinne Tuytelaars, Marie-Francine Moens   
 *European Conference on Computer Vision (**ECCV 2024**)*  
