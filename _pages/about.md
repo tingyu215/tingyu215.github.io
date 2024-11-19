@@ -20,7 +20,7 @@ Selected Publications
 
 **TS-LLaVA: Constructing Visual Tokens through Thumbnail-and-Sampling or Training-Free Video Large Language Models**\
 **Tingyu Qu**, Mingxiao Li, Tinne Tuytelaars, Marie-Francine Mones\
-**Preprint, Under Review**\
+*Preprint, Under Review*\
 [[Paper](https://arxiv.org/pdf/2411.11066)] [[Code](https://github.com/tingyu215/TS-LLaVA)]
 
 
