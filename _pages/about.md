@@ -51,7 +51,7 @@ Note: * indicates equal contribution
 Service
 ======
 
-Reviewer: CVPR, ACL, BMVC, NeurIPS, AAAI, ICLR, AISTATS, ICML, TPAMI
+Reviewer: ACL, CVPR, ICCV, BMVC, NeurIPS, AAAI, ICLR, AISTATS, ICML, TPAMI
 
 
 <!-- 
