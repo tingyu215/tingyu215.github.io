@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I'm a PhD student at KU Leuven, advised by [Prof.Marie-Francine Moens](https://people.cs.kuleuven.be/~sien.moens/) and [Prof.Tinne Tuytelaars](https://www.esat.kuleuven.be/psi/TT/). My current research interests lie in Vision and Language, Generative Models and Parameter-Efficient Fine-Tuning Methods. Feel free to contact me for questions and collaborations.
+Hi there! I'm a postdoctoral research associate working with [Prof.Tinne Tuytelaars](https://www.esat.kuleuven.be/psi/TT/) at KU Leuven. My current research interests lie in Vision and Language, Generative Models and Parameter-Efficient Fine-Tuning Methods. Feel free to contact me for questions and collaborations.
 
-Before my PhD, I obtained my MSc. in Artificial Intelligence (2020) and Statistics (2019) from KU Leuven, and my BSc. in Applied Mathematics (2017) from Hebei University.
+*I got my PhD on March 13, 2025.* During my PhD at KU Leuven, I was advised by [Prof.Marie-Francine Moens](https://people.cs.kuleuven.be/~sien.moens/) and [Prof.Tinne Tuytelaars](https://www.esat.kuleuven.be/psi/TT/). Before my PhD, I obtained my MSc. in Artificial Intelligence (2020) and Statistics (2019) from KU Leuven, and my BSc. in Applied Mathematics (2017) from Hebei University.
 
 Selected Publications
 ======
@@ -20,7 +20,7 @@ Selected Publications
 
 **TS-LLaVA: Constructing Visual Tokens through Thumbnail-and-Sampling for Training-Free Video Large Language Models**\
 **Tingyu Qu**, Mingxiao Li, Tinne Tuytelaars, Marie-Francine Mones\
-*Preprint, Under Review*\
+*Preprint, Under Review. 2024*\
 [[Paper](https://arxiv.org/pdf/2411.11066)] [[Code](https://github.com/tingyu215/TS-LLaVA)] [[ModelScope Community](https://www.modelscope.cn/models/tingyuqu/TS-LLaVA)]
 
 
@@ -31,7 +31,7 @@ Selected Publications
 
 
 **Alleviating Exposure Bias in Diffusion Models through Sampling with Shifted Time Steps**  
-Mingxiao Li\*, **Tingyu Qu**\*, Ruicong yao, Wei Sun, Marie-Francine Moens  
+Mingxiao Li\*, **Tingyu Qu\***, Ruicong yao, Wei Sun, Marie-Francine Moens  
 *International Conference on Learning Representations (**ICLR 2024**)*  
 [[Paper](https://arxiv.org/pdf/2305.15583.pdf)] [[Code (DDPM ver.)](https://github.com/Mingxiao-Li/TS-DPM?tab=readme-ov-file)] [[Code (ADM ver.)](https://github.com/tingyu215/TS-DPM-ADM)]
 
@@ -45,6 +45,15 @@ Mingxiao Li\*, **Tingyu Qu**\*, Ruicong yao, Wei Sun, Marie-Francine Moens
 **Tingyu Qu**, Tinne Tuytelaars, Marie-Francine Moens  
 *IEEE/CVF Winter Conference on Applications of Computer Vision (**WACV 2023**)*  
 [[Paper](https://arxiv.org/pdf/2210.08957.pdf)] [[Code](https://github.com/tingyu215/SECLA)]
+
+**Towards More Accurate Personalized Image Generation: Addressing Overfitting and Evaluation Bias**
+Mingxiao Li, **Tingyu Qu**, Tinne Tuytelaars, & Marie-Francine Moens.
+*Preprint, Under Review. 2025*
+[[Paper](https://arxiv.org/pdf/2503.06632)] [[Code](https://github.com/Mingxiao-Li/Towards-More-Accurate-Personalized-Image-Generation)]
+
+**Mitigating Negative Interference in Multilingual Knowledge Editing through Null-Space Constraints**
+Wei Sun, **Tingyu Qu**, Mingxiao Li, Jesse Davis, & Marie-Francine Moens.  
+*Under Review. 2025*
 
 Note: * indicates equal contribution
 
