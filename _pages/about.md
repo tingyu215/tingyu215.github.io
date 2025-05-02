@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I'm a postdoctoral research associate working with [Prof.Tinne Tuytelaars](https://www.esat.kuleuven.be/psi/TT/) at KU Leuven. My current research interests lie in Vision and Language, Generative Models and Parameter-Efficient Fine-Tuning Methods. Feel free to contact me for questions and collaborations.
+Hi there! I'm a research associate working with [Prof.Tinne Tuytelaars](https://www.esat.kuleuven.be/psi/TT/) at KU Leuven. My current research interests lie in Vision and Language, Generative Models and Parameter-Efficient Fine-Tuning Methods. Feel free to contact me for questions and collaborations.
 
 *I got my PhD on March 13, 2025.* During my PhD at KU Leuven, I was advised by [Prof.Marie-Francine Moens](https://people.cs.kuleuven.be/~sien.moens/) and [Prof.Tinne Tuytelaars](https://www.esat.kuleuven.be/psi/TT/). Before my PhD, I obtained my MSc. in Artificial Intelligence (2020) and Statistics (2019) from KU Leuven, and my BSc. in Applied Mathematics (2017) from Hebei University.
 
