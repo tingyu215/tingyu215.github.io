@@ -46,14 +46,19 @@ Mingxiao Li\*, **Tingyu Qu\***, Ruicong yao, Wei Sun, Marie-Francine Moens
 *IEEE/CVF Winter Conference on Applications of Computer Vision (**WACV 2023**)*  
 [[Paper](https://arxiv.org/pdf/2210.08957.pdf)] [[Code](https://github.com/tingyu215/SECLA)]
 
+**Mitigating Negative Interference in Multilingual Knowledge Editing through Null-Space Constraints**\
+Wei Sun, **Tingyu Qu**, Mingxiao Li, Jesse Davis, & Marie-Francine Moens.\
+*Findings of the Association for Computational Linguistics: ACL 2025. (**ACL-Findings 2025**)*
+
 **Towards More Accurate Personalized Image Generation: Addressing Overfitting and Evaluation Bias**\
 Mingxiao Li, **Tingyu Qu**, Tinne Tuytelaars, & Marie-Francine Moens.\
 *Preprint, Under Review. 2025*\
 [[Paper](https://arxiv.org/pdf/2503.06632)] [[Code](https://github.com/Mingxiao-Li/Towards-More-Accurate-Personalized-Image-Generation)]
 
-**Mitigating Negative Interference in Multilingual Knowledge Editing through Null-Space Constraints**\
-Wei Sun, **Tingyu Qu**, Mingxiao Li, Jesse Davis, & Marie-Francine Moens.\
-*Under Review. 2025*
+
+<!-- **OASIS: Online Sample Selection for Continual Visual Instruction Tuning**\
+Minjae Lee*, Minhyuk Seo*, **Tingyu Qu**, Tinne Tuytelaars, Jonghyun Choi.\
+*Under Review. 2025* -->
 
 Note: * indicates equal contribution
 
@@ -63,6 +68,8 @@ Service
 Reviewer: ACL, CVPR, ICCV, BMVC, NeurIPS, AAAI, ICLR, AISTATS, ICML, TPAMI
 
 Area Chair: ACL Rolling Review
+
+Outstanding Reviewer: CVPR 2025
 
 
 <!-- 
