@@ -56,7 +56,7 @@ Mingxiao Li, **Tingyu Qu**, Tinne Tuytelaars, Marie-Francine Moens.\
 [[Paper](https://arxiv.org/pdf/2503.06632)] [[Code](https://github.com/Mingxiao-Li/Towards-More-Accurate-Personalized-Image-Generation)]
 
 **OASIS: Online Sample Selection for Continual Visual Instruction Tuning**\
-Minjae Lee*, Minhyuk Seo*, **Tingyu Qu**, Tinne Tuytelaars, Jonghyun Choi.\
+Minjae Lee\*, Minhyuk Seo\*, **Tingyu Qu**, Tinne Tuytelaars, Jonghyun Choi.\
 *Preprint, Under Review. 2025*\
 [[Paper](https://www.arxiv.org/pdf/2506.02011)]
 
