@@ -49,6 +49,7 @@ Mingxiao Li\*, **Tingyu Qu\***, Ruicong yao, Wei Sun, Marie-Francine Moens
 **Mitigating Negative Interference in Multilingual Knowledge Editing through Null-Space Constraints**\
 Wei Sun, **Tingyu Qu**, Mingxiao Li, Jesse Davis, Marie-Francine Moens.\
 *Findings of the Association for Computational Linguistics: ACL 2025. (**ACL-Findings 2025**)*
+[[Paper](https://arxiv.org/abs/2506.10800)] [[Code](https://github.com/VRCMF/LangEdit)]
 
 **Towards More Accurate Personalized Image Generation: Addressing Overfitting and Evaluation Bias**\
 Mingxiao Li, **Tingyu Qu**, Tinne Tuytelaars, Marie-Francine Moens.\
