@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I'm a research associate working with [Prof.Tinne Tuytelaars](https://www.esat.kuleuven.be/psi/TT/) at KU Leuven. My current research interests lie in Vision and Language, Generative Models and Parameter-Efficient Fine-Tuning Methods. Feel free to contact me for questions and collaborations.
+Hi there! I'm a researcher at Tongyi Lab, Alibaba Group. Before joining Alibaba, I was a research associate working with [Prof.Tinne Tuytelaars](https://www.esat.kuleuven.be/psi/TT/) at KU Leuven. My research interests lie in Multimodal Foundation Models, Vision and Language, Generative Models and Parameter-Efficient Fine-Tuning Methods. Feel free to contact me for questions and collaborations.
 
 *I got my PhD on March 13, 2025.* During my PhD at KU Leuven, I was advised by [Prof.Marie-Francine Moens](https://people.cs.kuleuven.be/~sien.moens/) and [Prof.Tinne Tuytelaars](https://www.esat.kuleuven.be/psi/TT/). Before my PhD, I obtained my MSc. in Artificial Intelligence (2020) and Statistics (2019) from KU Leuven, and my BSc. in Applied Mathematics (2017) from Hebei University.
 
@@ -16,6 +16,26 @@ Selected Publications
 ======
 
 <!-- Visit my [Google Scholar Page](https://scholar.google.com/citations?user=d18-zLYAAAAJ&hl=en) for an up-to-date list of my publications. -->
+
+
+**OASIS: Online Sample Selection for Continual Visual Instruction Tuning**\
+Minjae Lee\*, Minhyuk Seo\*, **Tingyu Qu**, Tinne Tuytelaars, Jonghyun Choi.\
+*Annual Meeting of the Association for Computational Linguistics (**ACL 2026**)*\
+[[Paper](https://www.arxiv.org/pdf/2506.02011)]
+
+
+
+**Mitigating Negative Interference in Multilingual Knowledge Editing through Null-Space Constraints**\
+Wei Sun, **Tingyu Qu**, Mingxiao Li, Jesse Davis, Marie-Francine Moens.\
+*Findings of the Association for Computational Linguistics: ACL 2025. (**ACL-Findings 2025**)*
+[[Paper](https://arxiv.org/abs/2506.10800)] [[Code](https://github.com/VRCMF/LangEdit)]
+
+
+**Towards More Accurate Personalized Image Generation: Addressing Overfitting and Evaluation Bias**\
+Mingxiao Li, **Tingyu Qu**, Tinne Tuytelaars, Marie-Francine Moens.\
+*Preprint, Under Review. 2025*\
+[[Paper](https://arxiv.org/pdf/2503.06632)] [[Code](https://github.com/Mingxiao-Li/Towards-More-Accurate-Personalized-Image-Generation)]
+
 
 
 **TS-LLaVA: Constructing Visual Tokens through Thumbnail-and-Sampling for Training-Free Video Large Language Models**\
@@ -45,21 +65,6 @@ Mingxiao Li\*, **Tingyu Qu\***, Ruicong yao, Wei Sun, Marie-Francine Moens
 **Tingyu Qu**, Tinne Tuytelaars, Marie-Francine Moens  
 *IEEE/CVF Winter Conference on Applications of Computer Vision (**WACV 2023**)*  
 [[Paper](https://arxiv.org/pdf/2210.08957.pdf)] [[Code](https://github.com/tingyu215/SECLA)]
-
-**Mitigating Negative Interference in Multilingual Knowledge Editing through Null-Space Constraints**\
-Wei Sun, **Tingyu Qu**, Mingxiao Li, Jesse Davis, Marie-Francine Moens.\
-*Findings of the Association for Computational Linguistics: ACL 2025. (**ACL-Findings 2025**)*
-[[Paper](https://arxiv.org/abs/2506.10800)] [[Code](https://github.com/VRCMF/LangEdit)]
-
-**Towards More Accurate Personalized Image Generation: Addressing Overfitting and Evaluation Bias**\
-Mingxiao Li, **Tingyu Qu**, Tinne Tuytelaars, Marie-Francine Moens.\
-*Preprint, Under Review. 2025*\
-[[Paper](https://arxiv.org/pdf/2503.06632)] [[Code](https://github.com/Mingxiao-Li/Towards-More-Accurate-Personalized-Image-Generation)]
-
-**OASIS: Online Sample Selection for Continual Visual Instruction Tuning**\
-Minjae Lee\*, Minhyuk Seo\*, **Tingyu Qu**, Tinne Tuytelaars, Jonghyun Choi.\
-*Preprint, Under Review. 2025*\
-[[Paper](https://www.arxiv.org/pdf/2506.02011)]
 
 
 
