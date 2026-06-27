@@ -20,50 +20,50 @@ Selected Publications
 
 **OASIS: Online Sample Selection for Continual Visual Instruction Tuning**\
 Minjae Lee\*, Minhyuk Seo\*, **Tingyu Qu**, Tinne Tuytelaars, Jonghyun Choi.\
-*Annual Meeting of the Association for Computational Linguistics (**ACL 2026**)*\
+***ACL 2026***\
 [[Paper](https://www.arxiv.org/pdf/2506.02011)]
 
 
 
 **Mitigating Negative Interference in Multilingual Knowledge Editing through Null-Space Constraints**\
 Wei Sun, **Tingyu Qu**, Mingxiao Li, Jesse Davis, Marie-Francine Moens.\
-*Findings of the Association for Computational Linguistics: ACL 2025. (**ACL-Findings 2025**)*
+***ACL-Findings 2025***
 [[Paper](https://arxiv.org/abs/2506.10800)] [[Code](https://github.com/VRCMF/LangEdit)]
 
 
 **Towards More Accurate Personalized Image Generation: Addressing Overfitting and Evaluation Bias**\
 Mingxiao Li, **Tingyu Qu**, Tinne Tuytelaars, Marie-Francine Moens.\
-*Preprint, Under Review. 2025*\
+***Preprint 2025***\
 [[Paper](https://arxiv.org/pdf/2503.06632)] [[Code](https://github.com/Mingxiao-Li/Towards-More-Accurate-Personalized-Image-Generation)]
 
 
 
 **TS-LLaVA: Constructing Visual Tokens through Thumbnail-and-Sampling for Training-Free Video Large Language Models**\
 **Tingyu Qu**, Mingxiao Li, Tinne Tuytelaars, Marie-Francine Mones\
-*Preprint, Under Review. 2024*\
+***Preprint 2024***\
 [[Paper](https://arxiv.org/pdf/2411.11066)] [[Code](https://github.com/tingyu215/TS-LLaVA)] [[ModelScope Community](https://www.modelscope.cn/models/tingyuqu/TS-LLaVA)]
 
 
 **Introducing Routing Functions to Vision-Language Parameter-Efficient Fine-Tuning with Low-Rank Bottlenecks**  
 **Tingyu Qu**, Tinne Tuytelaars, Marie-Francine Moens   
-*European Conference on Computer Vision (**ECCV 2024**)*  
+***ECCV 2024***  
 [[Paper](https://arxiv.org/pdf/2403.09377.pdf)] [[Code](https://github.com/tingyu215/Routing_VLPEFT)]
 
 
 **Alleviating Exposure Bias in Diffusion Models through Sampling with Shifted Time Steps**  
 Mingxiao Li\*, **Tingyu Qu\***, Ruicong yao, Wei Sun, Marie-Francine Moens  
-*International Conference on Learning Representations (**ICLR 2024**)*  
+***ICLR 2024***  
 [[Paper](https://arxiv.org/pdf/2305.15583.pdf)] [[Code (DDPM ver.)](https://github.com/Mingxiao-Li/TS-DPM?tab=readme-ov-file)] [[Code (ADM ver.)](https://github.com/tingyu215/TS-DPM-ADM)]
 
 
 **Visually-Aware Context Modeling for News Image Captioning**  
 **Tingyu Qu**, Tinne Tuytelaars, Marie-Francine Moens  
-*Annual Conference of the North American Chapter of the Association for Computational Linguistics (**NAACL 2024**)*  
+***NAACL 2024***  
 [[Paper](https://arxiv.org/pdf/2308.08325.pdf)] [[Code](https://github.com/tingyu215/VACNIC)]
 
 **Weakly Supervised Face Naming With Symmetry-Enhanced Contrastive Loss**  
 **Tingyu Qu**, Tinne Tuytelaars, Marie-Francine Moens  
-*IEEE/CVF Winter Conference on Applications of Computer Vision (**WACV 2023**)*  
+***WACV 2023***  
 [[Paper](https://arxiv.org/pdf/2210.08957.pdf)] [[Code](https://github.com/tingyu215/SECLA)]
 
 
