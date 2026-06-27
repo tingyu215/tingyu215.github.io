@@ -27,7 +27,7 @@ Minjae Lee\*, Minhyuk Seo\*, **Tingyu Qu**, Tinne Tuytelaars, Jonghyun Choi.\
 
 **Mitigating Negative Interference in Multilingual Knowledge Editing through Null-Space Constraints**\
 Wei Sun, **Tingyu Qu**, Mingxiao Li, Jesse Davis, Marie-Francine Moens.\
-***ACL-Findings 2025***
+***ACL-Findings 2025***\
 [[Paper](https://arxiv.org/abs/2506.10800)] [[Code](https://github.com/VRCMF/LangEdit)]
 
 
