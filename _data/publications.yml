@@ -1,0 +1,118 @@
+# Keep papers in reverse chronological order.
+# Set selected: true to feature a paper on the homepage.
+- title: 'MobilePA-Bench: Benchmarking Mobile Planner Agents on Complex Real-World Tasks'
+  authors: 'Yi Zhu\*, Xiongwei Wu\*, Qiyi Wang, **Tingyu Qu**, Jiajun Liu, Sihan Cao, Long Chen, Weigao Sun, Feida Zhu, Yiran Zhong, Steven HOI.'
+  year: 2026
+  venue: 'Preprint 2026'
+  links:
+    - label: 'Paper'
+      url: 'https://arxiv.org/pdf/2608.23035'
+    - label: 'Code'
+      url: 'https://github.com/Tongyi-MAI/MobilePA-Bench'
+    - label: 'Website'
+      url: 'https://tongyi-mai.github.io/MobilePA-Bench/'
+
+- title: 'Event Interaction in Low-Rank Bottlenecks for Temporal Relation Extraction'
+  authors: 'Wei Sun, **Tingyu Qu**, Jesse Davis, Marie-Francine Moens.'
+  year: 2026
+  venue: 'TACL'
+  links:
+    - label: 'Paper'
+      url: 'https://arxiv.org/pdf/2609.06731v1'
+    - label: 'Code'
+      url: 'https://github.com/VRCMF/CIF'
+
+- title: 'OASIS: Online Sample Selection for Continual Visual Instruction Tuning'
+  authors: 'Minjae Lee\*, Minhyuk Seo\*, **Tingyu Qu**, Tinne Tuytelaars, Jonghyun Choi.'
+  year: 2026
+  venue: 'ACL 2026'
+  links:
+    - label: 'Paper'
+      url: 'https://aclanthology.org/2026.acl-long.158.pdf'
+    - label: 'Code'
+      url: 'https://github.com/snumprlab/oasis'
+
+- title: 'Mitigating Negative Interference in Multilingual Knowledge Editing through Null-Space Constraints'
+  authors: 'Wei Sun, **Tingyu Qu**, Mingxiao Li, Jesse Davis, Marie-Francine Moens.'
+  year: 2025
+  venue: 'ACL-Findings 2025'
+  links:
+    - label: 'Paper'
+      url: 'https://aclanthology.org/2025.findings-acl.460.pdf'
+    - label: 'Code'
+      url: 'https://github.com/VRCMF/LangEdit'
+
+- title: 'Towards More Accurate Personalized Image Generation: Addressing Overfitting and Evaluation Bias'
+  authors: 'Mingxiao Li, **Tingyu Qu**, Tinne Tuytelaars, Marie-Francine Moens.'
+  year: 2025
+  venue: 'Preprint 2025'
+  links:
+    - label: 'Paper'
+      url: 'https://arxiv.org/pdf/2503.06632'
+    - label: 'Code'
+      url: 'https://github.com/Mingxiao-Li/Towards-More-Accurate-Personalized-Image-Generation'
+
+- title: 'TS-LLaVA: Constructing Visual Tokens through Thumbnail-and-Sampling for Training-Free Video Large Language Models'
+  authors: '**Tingyu Qu**, Mingxiao Li, Tinne Tuytelaars, Marie-Francine Mones'
+  year: 2024
+  venue: 'Preprint 2024'
+  selected: false
+  links:
+    - label: 'Paper'
+      url: 'https://arxiv.org/pdf/2411.11066'
+    - label: 'Code'
+      url: 'https://github.com/tingyu215/TS-LLaVA'
+    - label: 'ModelScope Community'
+      url: 'https://www.modelscope.cn/models/tingyuqu/TS-LLaVA'
+
+- title: 'Introducing Routing Functions to Vision-Language Parameter-Efficient Fine-Tuning with Low-Rank Bottlenecks'
+  authors: '**Tingyu Qu**, Tinne Tuytelaars, Marie-Francine Moens'
+  year: 2024
+  venue: 'ECCV 2024'
+  selected: true
+  links:
+    - label: 'Paper'
+      url: 'https://arxiv.org/pdf/2403.09377.pdf'
+    - label: 'Code'
+      url: 'https://github.com/tingyu215/Routing_VLPEFT'
+
+- title: 'Alleviating Exposure Bias in Diffusion Models through Sampling with Shifted Time Steps'
+  authors: 'Mingxiao Li\*, **Tingyu Qu\***, Ruicong yao, Wei Sun, Marie-Francine Moens'
+  year: 2024
+  venue: 'ICLR 2024'
+  selected: true
+  links:
+    - label: 'Paper'
+      url: 'https://arxiv.org/pdf/2305.15583.pdf'
+    - label: 'Code (DDPM ver.)'
+      url: 'https://github.com/Mingxiao-Li/TS-DPM?tab=readme-ov-file'
+    - label: 'Code (ADM ver.)'
+      url: 'https://github.com/tingyu215/TS-DPM-ADM'
+
+- title: 'Visually-Aware Context Modeling for News Image Captioning'
+  authors: '**Tingyu Qu**, Tinne Tuytelaars, Marie-Francine Moens'
+  year: 2024
+  venue: 'NAACL 2024'
+  links:
+    - label: 'Paper'
+      url: 'https://arxiv.org/pdf/2308.08325.pdf'
+    - label: 'Code'
+      url: 'https://github.com/tingyu215/VACNIC'
+
+- title: 'Weakly Supervised Face Naming With Symmetry-Enhanced Contrastive Loss'
+  authors: '**Tingyu Qu**, Tinne Tuytelaars, Marie-Francine Moens'
+  year: 2023
+  venue: 'WACV 2023'
+  links:
+    - label: 'Paper'
+      url: 'https://arxiv.org/pdf/2210.08957.pdf'
+    - label: 'Code'
+      url: 'https://github.com/tingyu215/SECLA'
+
+- title: 'A Resampling Method to Improve the Prognostic Model of End-Stage Kidney Disease: A Better Strategy for Imbalanced Data'
+  authors: 'Xi Shi, **Tingyu Qu**, Gijs Van Pottelbergh, Marjan van den Akker, Bart De Moor.'
+  year: 2022
+  venue: 'Frontiers in Medicine 2022'
+  links:
+    - label: 'Paper'
+      url: 'https://www.frontiersin.org/articles/10.3389/fmed.2022.730748/full'

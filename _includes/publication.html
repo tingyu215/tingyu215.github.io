@@ -1,0 +1,11 @@
+<article class="publication">
+  <h3 class="publication__title">{{ include.publication.title | escape }}</h3>
+  <p class="publication__authors">{{ include.publication.authors | markdownify | remove: '<p>' | remove: '</p>' | strip }}</p>
+  <div class="publication__meta">
+    <span class="publication__venue">{{ include.publication.venue | escape }}</span>
+    {% for resource in include.publication.links %}
+      <span class="publication__separator" aria-hidden="true">·</span>
+      <a href="{{ resource.url | escape }}">{{ resource.label | escape }}</a>
+    {% endfor %}
+  </div>
+</article>

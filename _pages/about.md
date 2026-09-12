@@ -1,87 +1,47 @@
 ---
+layout: profile
 permalink: /
-title: "About Me"
+title: "Tingyu Qu"
 excerpt: "Tingyu Qu's Homepage"
 author_profile: true
+profile_layout: true
+profile_home: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hi there! I'm a researcher at Tongyi Lab, Alibaba Group. Before joining Alibaba, I was a research associate working with [Prof.Tinne Tuytelaars](https://www.esat.kuleuven.be/psi/TT/) at KU Leuven. My research interests lie in Multimodal Foundation Models, Vision and Language, Generative Models and Parameter-Efficient Fine-Tuning Methods. Feel free to contact me for questions and collaborations.
+I'm a researcher at **Tongyi Lab, Alibaba Group**. My research interests include multimodal foundation models, vision and language, generative models, and parameter-efficient fine-tuning. Feel free to reach out for questions and collaborations.
 
-*I got my PhD on March 13, 2025.* During my PhD at KU Leuven, I was advised by [Prof.Marie-Francine Moens](https://people.cs.kuleuven.be/~sien.moens/) and [Prof.Tinne Tuytelaars](https://www.esat.kuleuven.be/psi/TT/). Before my PhD, I obtained my MSc. in Artificial Intelligence (2020) and Statistics (2019) from KU Leuven, and my BSc. in Applied Mathematics (2017) from Hebei University.
+Previously, I was a research associate at KU Leuven with [Prof. Tinne Tuytelaars](https://www.esat.kuleuven.be/psi/TT/). I received my PhD from KU Leuven in 2025, advised by [Prof. Marie-Francine Moens](https://people.cs.kuleuven.be/~sien.moens/) and Prof. Tinne Tuytelaars.
 
-Selected Publications
-======
+<details class="profile-education">
+  <summary>Education &amp; background</summary>
+  <p>I completed my PhD on March 13, 2025. Before that, I obtained my MSc in Artificial Intelligence (2020) and Statistics (2019) from KU Leuven, and my BSc in Applied Mathematics (2017) from Hebei University.</p>
+</details>
 
-<!-- Visit my [Google Scholar Page](https://scholar.google.com/citations?user=d18-zLYAAAAJ&hl=en) for an up-to-date list of my publications. -->
+## Selected Publications
 
+{% assign selected_publications = site.data.publications | where: "selected", true %}
+{% for publication in selected_publications %}
+{% include publication.html publication=publication %}
+{% endfor %}
 
-**OASIS: Online Sample Selection for Continual Visual Instruction Tuning**\
-Minjae Lee\*, Minhyuk Seo\*, **Tingyu Qu**, Tinne Tuytelaars, Jonghyun Choi.\
-***ACL 2026***\
-[[Paper](https://www.arxiv.org/pdf/2506.02011)]
+<div class="publications-footer">
+  <span class="publication-note">* Equal contribution</span>
+  <a class="all-publications" href="{{ '/publications/' | relative_url }}">All publications <span aria-hidden="true">→</span></a>
+</div>
 
+## Service
 
-
-**Mitigating Negative Interference in Multilingual Knowledge Editing through Null-Space Constraints**\
-Wei Sun, **Tingyu Qu**, Mingxiao Li, Jesse Davis, Marie-Francine Moens.\
-***ACL-Findings 2025***\
-[[Paper](https://arxiv.org/abs/2506.10800)] [[Code](https://github.com/VRCMF/LangEdit)]
-
-
-**Towards More Accurate Personalized Image Generation: Addressing Overfitting and Evaluation Bias**\
-Mingxiao Li, **Tingyu Qu**, Tinne Tuytelaars, Marie-Francine Moens.\
-***Preprint 2025***\
-[[Paper](https://arxiv.org/pdf/2503.06632)] [[Code](https://github.com/Mingxiao-Li/Towards-More-Accurate-Personalized-Image-Generation)]
-
-
-
-**TS-LLaVA: Constructing Visual Tokens through Thumbnail-and-Sampling for Training-Free Video Large Language Models**\
-**Tingyu Qu**, Mingxiao Li, Tinne Tuytelaars, Marie-Francine Mones\
-***Preprint 2024***\
-[[Paper](https://arxiv.org/pdf/2411.11066)] [[Code](https://github.com/tingyu215/TS-LLaVA)] [[ModelScope Community](https://www.modelscope.cn/models/tingyuqu/TS-LLaVA)]
-
-
-**Introducing Routing Functions to Vision-Language Parameter-Efficient Fine-Tuning with Low-Rank Bottlenecks**  
-**Tingyu Qu**, Tinne Tuytelaars, Marie-Francine Moens   
-***ECCV 2024***  
-[[Paper](https://arxiv.org/pdf/2403.09377.pdf)] [[Code](https://github.com/tingyu215/Routing_VLPEFT)]
-
-
-**Alleviating Exposure Bias in Diffusion Models through Sampling with Shifted Time Steps**  
-Mingxiao Li\*, **Tingyu Qu\***, Ruicong yao, Wei Sun, Marie-Francine Moens  
-***ICLR 2024***  
-[[Paper](https://arxiv.org/pdf/2305.15583.pdf)] [[Code (DDPM ver.)](https://github.com/Mingxiao-Li/TS-DPM?tab=readme-ov-file)] [[Code (ADM ver.)](https://github.com/tingyu215/TS-DPM-ADM)]
-
-
-**Visually-Aware Context Modeling for News Image Captioning**  
-**Tingyu Qu**, Tinne Tuytelaars, Marie-Francine Moens  
-***NAACL 2024***  
-[[Paper](https://arxiv.org/pdf/2308.08325.pdf)] [[Code](https://github.com/tingyu215/VACNIC)]
-
-**Weakly Supervised Face Naming With Symmetry-Enhanced Contrastive Loss**  
-**Tingyu Qu**, Tinne Tuytelaars, Marie-Francine Moens  
-***WACV 2023***  
-[[Paper](https://arxiv.org/pdf/2210.08957.pdf)] [[Code](https://github.com/tingyu215/SECLA)]
-
-
-
-<!-- **OASIS: Online Sample Selection for Continual Visual Instruction Tuning**\
-Minjae Lee*, Minhyuk Seo*, **Tingyu Qu**, Tinne Tuytelaars, Jonghyun Choi.\
-*Under Review. 2025* -->
-
-Note: * indicates equal contribution
-
-Service
-======
-
-Reviewer: ACL, CVPR, ICCV, BMVC, NeurIPS, AAAI, ICLR, AISTATS, ICML, TPAMI
-
-Area Chair: ACL Rolling Review
-
-Outstanding Reviewer: CVPR 2025
+<dl class="profile-service">
+  <dt>Reviewer</dt>
+  <dd>ACL, CVPR, ICCV, BMVC, NeurIPS, AAAI, ICLR, AISTATS, ICML, TPAMI</dd>
+  <dt>Area Chair</dt>
+  <dd>ACL Rolling Review</dd>
+  <dt>Recognition</dt>
+  <dd>Outstanding Reviewer, CVPR 2025</dd>
+</dl>
 
 
 <!-- 

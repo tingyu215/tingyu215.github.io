@@ -1,0 +1,27 @@
+<aside class="profile-sidebar" aria-label="About {{ site.author.name | escape }}">
+  {% if site.author.avatar %}
+    {% if site.author.avatar contains '://' %}
+      {% assign profile_avatar = site.author.avatar %}
+    {% else %}
+      {% assign profile_avatar = site.author.avatar | prepend: '/images/' | relative_url %}
+    {% endif %}
+    <img class="profile-sidebar__avatar" src="{{ profile_avatar }}" alt="{{ site.author.name | escape }}" width="144" height="144">
+  {% endif %}
+  <div class="profile-sidebar__identity">
+    {% if page.profile_home %}
+      <h1 class="profile-sidebar__name">{{ site.author.name | escape }}</h1>
+    {% else %}
+      <h2 class="profile-sidebar__name">{{ site.author.name | escape }}</h2>
+    {% endif %}
+    <p class="profile-sidebar__role">{{ site.author.bio | escape }}{% if site.author.employer %}<br>{{ site.author.employer | escape }}{% endif %}</p>
+  </div>
+  <nav class="profile-sidebar__links" aria-label="Contact and profiles">
+    {% if site.author.email %}<a href="mailto:{{ site.author.email | escape }}">Email</a>{% endif %}
+    {% if site.author.googlescholar %}<a href="{{ site.author.googlescholar | escape }}">Google Scholar</a>{% endif %}
+    {% if site.author.github %}<a href="https://github.com/{{ site.author.github | escape }}">GitHub</a>{% endif %}
+    <div class="profile-sidebar__social">
+      {% if site.author.twitter %}<a href="https://twitter.com/{{ site.author.twitter | escape }}">X</a>{% endif %}
+      {% if site.author.zhihu %}<a href="{{ site.author.zhihu | escape }}">Zhihu</a>{% endif %}
+    </div>
+  </nav>
+</aside>

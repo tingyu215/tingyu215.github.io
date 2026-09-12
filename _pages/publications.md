@@ -1,16 +1,23 @@
 ---
-layout: archive
+layout: profile
 title: "Publications"
 permalink: /publications/
 author_profile: true
+profile_layout: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+You can find my up-to-date publication list on [Google Scholar]({{ site.author.googlescholar }}).
 {% endif %}
 
-{% include base_path %}
+{% assign publication_years = site.data.publications | group_by: "year" | sort: "name" | reverse %}
+{% for year in publication_years %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
+## {{ year.name }}
+
+{% for publication in year.items %}
+{% include publication.html publication=publication %}
 {% endfor %}
+{% endfor %}
+
+<p class="publication-note">* Equal contribution</p>

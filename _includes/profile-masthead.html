@@ -1,0 +1,27 @@
+<a class="profile-skip-link" href="#main">Skip to content</a>
+<header class="profile-masthead">
+  <nav class="profile-nav" aria-label="Main navigation">
+    <a class="profile-nav__home" href="{{ '/' | relative_url }}"{% if page.profile_home %} aria-current="page"{% endif %}>{{ site.title | escape }}</a>
+    <div class="profile-nav__actions">
+      <ul>
+        {% for link in site.data.navigation.main %}
+          {% if link.url contains '://' %}
+            {% assign navigation_url = link.url %}
+          {% else %}
+            {% assign navigation_url = link.url | relative_url %}
+          {% endif %}
+          <li><a href="{{ navigation_url }}"{% if page.url == link.url %} aria-current="page"{% endif %}>{{ link.title | escape }}</a></li>
+        {% endfor %}
+      </ul>
+      <button class="profile-theme-toggle" type="button" data-theme-toggle aria-label="Dark mode" aria-pressed="false" title="Switch to dark mode" hidden>
+        <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">
+          <path class="profile-theme-toggle__moon" d="M20.5 13.5A8.5 8.5 0 0 1 10.5 3.5a8.5 8.5 0 1 0 10 10Z"/>
+          <g class="profile-theme-toggle__sun">
+            <circle cx="12" cy="12" r="4"/>
+            <path d="M12 2v2m0 16v2M2 12h2m16 0h2M4.9 4.9l1.4 1.4m11.4 11.4 1.4 1.4M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/>
+          </g>
+        </svg>
+      </button>
+    </div>
+  </nav>
+</header>

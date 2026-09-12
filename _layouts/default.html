@@ -5,25 +5,38 @@ layout: compress
 {% include base_path %}
 
 <!doctype html>
-<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
+<html lang="{{ site.locale | slice: 0,2 }}" class="no-js{% if page.profile_layout %} profile-theme{% endif %}">
   <head>
     {% include head.html %}
     {% include head/custom.html %}
   </head>
 
-  <body>
+  <body{% if page.profile_layout %} class="profile-layout"{% endif %}>
 
     {% include browser-upgrade.html %}
-    {% include masthead.html %}
+    {% if page.profile_layout %}
+      {% include profile-masthead.html %}
+    {% else %}
+      {% include masthead.html %}
+    {% endif %}
 
     {{ content }}
 
+    {% if page.profile_layout %}
+      <footer class="profile-footer">
+        <div class="profile-footer__inner">
+          <span>&copy; {{ site.time | date: '%Y' }} {{ site.author.name | escape }}</span>
+          <span>Built with <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a></span>
+        </div>
+      </footer>
+    {% else %}
     <div class="page__footer">
       <footer>
         {% include footer/custom.html %}
         {% include footer.html %}
       </footer>
     </div>
+    {% endif %}
 
     {% include scripts.html %}
 

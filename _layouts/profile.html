@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<main id="main" class="profile-main">
+  {% include profile-sidebar.html %}
+  <article class="profile-content">
+    {% unless page.profile_home %}
+      <h1 class="profile-page-title">{{ page.title | escape }}</h1>
+    {% endunless %}
+    <div class="page__content profile-body">
+      {{ content }}
+    </div>
+  </article>
+</main>
