@@ -1,3 +1,4 @@
+/* Use block comments: production HTML compression removes line breaks. */
 (function () {
   'use strict';
 
@@ -13,7 +14,7 @@
   try {
     preference = validTheme(window.localStorage.getItem(storageKey));
   } catch (error) {
-    // Switching still works when browser storage is unavailable.
+    /* Switching still works when browser storage is unavailable. */
   }
 
   function preferredTheme() {
@@ -35,7 +36,7 @@
     }
   }
 
-  // Run before the stylesheet and first paint, including on return visits.
+  /* Run before the stylesheet and first paint, including on return visits. */
   applyTheme(preferredTheme());
 
   function initializeToggle() {
@@ -46,7 +47,7 @@
         try {
           window.localStorage.setItem(storageKey, preference);
         } catch (error) {
-          // Keep the current-page choice even if it cannot be saved.
+          /* Keep the current-page choice even if it cannot be saved. */
         }
         applyTheme(preference);
       });
